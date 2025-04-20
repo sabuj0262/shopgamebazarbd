@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SHOP GAME BAZAR BD</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #ffffff;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1f1f1f;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    section {
+      padding: 20px;
+    }
+    .info, .payment {
+      background-color: #2a2a2a;
+      margin-bottom: 20px;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    a {
+      color: #4fc3f7;
+    }
+  </style>
+</head>
+<body>
+  <header>
